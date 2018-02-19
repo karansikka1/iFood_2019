@@ -1,0 +1,18 @@
+
+
+2/18
+--------------------------------------
+Notes on wordnet and dataset construction:
+- Wordnet has organized nouns as synsets i.e. groups of words with similar meaning or synonyms. These synonyms are further defined by hypernyms (generic synsets) and hyponyms (specific synsets)
+- We want to get categories that can be considered flat and are conditionally independent. For example lion and tiger are independent but not lion and animal. 
+- Our current approach on expanding food-101 was to obtain sibling categories for the 101 categories and add them to the set 
+- Currently we expanded (without filtering) to 434 categories (101 (from food-101) + 338 (wordnet))
+
+Notes on prior dataset
+- Food 101
+	- Top 101 classes from food-spotting.con and has 100 images (might be noisy)
+- UEC 256
+	- Extended a 100 class dataset but only has 32K images:wq
+
+
+
