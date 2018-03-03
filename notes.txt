@@ -10,7 +10,9 @@ Notes on wordnet and dataset construction:
 
 Notes on prior dataset
 - Food 101
-	- Top 101 classes from food-spotting.con and has 100 images (might be noisy)
+	- Top 101 classes from food-spotting.con and has 1000 images (might be noisy) 
+	- Training: 750 images/class (multiple classes in each image possible)
+	- Testing: 250 images/class (each image has a single class, obtained by manual cropping and labeling)  
 - UEC 256
 	- Extended a 100 class dataset but only has 32K images:wq
 
