@@ -21,8 +21,8 @@ content = [c.replace('food','') for c in content]
 
 food_items = []
 food_ngrams = []
-csvfile = "food-321-ngrams_1.csv"
-content_mini = content[0:50]
+csvfile = "food-321-ngrams_6.csv"
+content_mini = content[250:300]
 
 for i,query in enumerate(content_mini):   
     food_items.append(content_mini[i])
