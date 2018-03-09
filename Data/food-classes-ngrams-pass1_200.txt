@@ -1,0 +1,281 @@
+ice cream,0.000005,1
+pizza,0.000005,1
+pot roast,0.000004,0
+crab ,0.000003,0
+hash browns,0.000003,0
+bread pudding,0.000003,0
+beef stew,0.000003,0
+oyster,0.000003,1
+sausage and kraut,0.000002,0
+reuben,0.000002,0
+lobster ,0.000002,0
+chili,0.000002,0
+hamburger,0.000002,1
+fruit tart,0.000001,0
+porridge,0.000001,0
+clam ,0.000001,0
+custard,0.000001,0
+sushi,0.000001,1
+pate,0.000001,0
+jerky,0.000001,0
+casserole,0.000001,0
+pancake,0.000001,1
+gingerbread,0.000001,0
+mussel,0.000001,1
+crayfish ,0.000001,0
+taco,0.000001,1
+hot dog,0.000001,1
+poi,0.000001,0
+donut,0.000000,1
+french fries,0.000000,1
+apple pie,0.000000,1
+cheesecake,0.000000,1
+lasagna,0.000000,1
+tenderloin,0.000000,0
+scallop,0.000000,1
+ambrosia ,0.000000,0
+scrambled eggs,0.000000,0
+omelette,0.000000,1
+chocolate cake,0.000000,1
+waffle,0.000000,1
+sauerkraut,0.000000,0
+risotto,0.000000,1
+pho,0.000000,1
+couscous,0.000000,0
+cockle ,0.000000,0
+souffle,0.000000,0
+gyro,0.000000,0
+applesauce,0.000000,0
+brisket,0.000000,0
+foie gras,0.000000,1
+dumpling,0.000000,1
+ravioli,0.000000,1
+hummus,0.000000,1
+burrito,0.000000,0
+cupcake,0.000000,1
+boiled egg,0.000000,0
+macaroni and cheese,0.000000,1
+limpet ,0.000000,0
+flan,0.000000,0
+french toast,0.000000,1
+bacon and eggs,0.000000,0
+guacamole,0.000000,1
+fish and chips,0.000000,1
+penne,0.000000,0
+tamale,0.000000,0
+fritter,0.000000,0
+nacho,0.000000,1
+meat loaf ,0.000000,0
+fondue,0.000000,0
+compote,0.000000,0
+pavlova,0.000000,0
+fruitcake,0.000000,0
+pound cake,0.000000,0
+paella,0.000000,1
+vermicelli,0.000000,0
+haggis,0.000000,0
+meatball,0.000000,0
+sponge cake,0.000000,0
+fried rice,0.000000,1
+bread pudding,0.000000,1
+pork chop,0.000000,1
+sashimi,0.000000,1
+prime rib,0.000000,1
+ramen,0.000000,1
+ham and eggs,0.000000,0
+strudel,0.000000,0
+pilaf,0.000000,0
+filet mignon,0.000000,1
+caesar salad,0.000000,1
+gnocchi,0.000000,1
+falafel,0.000000,1
+ham sandwich,0.000000,0
+torte,0.000000,0
+savarin,0.000000,0
+frittata,0.000000,0
+tempura,0.000000,0
+onion rings,0.000000,1
+clam chowder,0.000000,1
+scampi,0.000000,0
+frozen yogurt,0.000000,1
+terrine,0.000000,0
+garlic bread,0.000000,1
+enchilada,0.000000,0
+linguine,0.000000,0
+baklava,0.000000,1
+schnitzel,0.000000,0
+coffee cake,0.000000,0
+chocolate mousse,0.000000,1
+fettuccine,0.000000,0
+jambalaya,0.000000,0
+fried egg,0.000000,0
+confit,0.000000,0
+bruschetta,0.000000,1
+carrot cake,0.000000,1
+edamame,0.000000,1
+strawberry shortcake,0.000000,1
+tiramisu,0.000000,1
+chop suey,0.000000,0
+poached egg,0.000000,0
+succotash,0.000000,0
+crumpet,0.000000,0
+ceviche,0.000000,1
+wonton,0.000000,0
+tortellini,0.000000,0
+adobo,0.000000,0
+tapenade,0.000000,0
+orzo,0.000000,0
+cannoli,0.000000,1
+miso soup,0.000000,1
+blancmange,0.000000,0
+chicken curry,0.000000,1
+chow mein,0.000000,0
+syllabub,0.000000,0
+eggs benedict,0.000000,1
+grilled salmon,0.000000,1
+creme brulee,0.000000,1
+panna cotta,0.000000,1
+greek salad,0.000000,1
+tetrazzini,0.000000,0
+escargot,0.000000,1
+rigatoni,0.000000,0
+ziti,0.000000,0
+pad thai,0.000000,1
+streusel,0.000000,0
+cannelloni,0.000000,0
+moussaka,0.000000,0
+egg roll,0.000000,0
+grilled cheese sandwich,0.000000,1
+tagliatelle,0.000000,0
+club sandwich,0.000000,1
+roulade,0.000000,0
+biryani,0.000000,0
+peking duck,0.000000,1
+stuffed cabbage,0.000000,0
+scrapple,0.000000,0
+chicken wing,0.000000,1
+coq au vin,0.000000,0
+welsh rarebit,0.000000,0
+croquette,0.000000,0
+french onion soup,0.000000,1
+stuffed peppers,0.000000,0
+samosa,0.000000,1
+sloppy joe,0.000000,0
+kabob,0.000000,0
+manicotti,0.000000,0
+potpie,0.000000,0
+pumpkin spice cake,0.000000,0
+kedgeree,0.000000,0
+coconut cake,0.000000,0
+beef stroganoff,0.000000,0
+baked alaska,0.000000,0
+baby back ribs,0.000000,0
+spring roll,0.000000,1
+osso buco,0.000000,0
+sukiyaki,0.000000,0
+huevos rancheros,0.000000,1
+crab cake,0.000000,1
+beet salad,0.000000,1
+lobster bisque,0.000000,1
+galantine,0.000000,0
+steak tartare,0.000000,0
+knish,0.000000,0
+lutefisk,0.000000,0
+spaghetti bolognese,0.000000,1
+cruller,0.000000,0
+sauerbraten,0.000000,0
+beef wellington,0.000000,0
+farfalle,0.000000,0
+bubble and squeak,0.000000,0
+marble cake,0.000000,0
+salisbury steak,0.000000,0
+churro,0.000000,1
+chicken kiev,0.000000,0
+red velvet cake,0.000000,1
+poutine,0.000000,1
+sausage roll,0.000000,0
+tostada,0.000000,0
+fried calamari,0.000000,1
+pepper steak,0.000000,0
+cottage pie,0.000000,0
+genoise,0.000000,0
+matzo ball,0.000000,0
+peach melba,0.000000,0
+crumb cake,0.000000,0
+beignet,0.000000,1
+swiss steak,0.000000,0
+chicken cordon bleu,0.000000,0
+hot and sour soup,0.000000,1
+boston cream pie,0.000000,0
+steak au poivre,0.000000,0
+dolmas,0.000000,0
+rissole,0.000000,0
+chiffon cake,0.000000,0
+tuna tartare,0.000000,1
+lobster thermidor,0.000000,0
+shrimp and grits,0.000000,1
+seedcake,0.000000,0
+deviled egg,0.000000,1
+applesauce cake,0.000000,0
+toad in the hole,0.000000,0
+spaghetti carbonara,0.000000,1
+gyoza,0.000000,1
+tamale pie,0.000000,0
+seaweed salad,0.000000,1
+petit four,0.000000,0
+fish stick,0.000000,0
+entrecote,0.000000,0
+anchovy butter,0.000000,0
+moo goo gai pan,0.000000,0
+mostaccioli,0.000000,0
+apple turnover,0.000000,0
+macaron,0.000000,1
+beef carpaccio,0.000000,1
+kishke,0.000000,0
+veal parmesan,0.000000,0
+pirogi,0.000000,0
+stuffed tomato,0.000000,0
+upside down cake,0.000000,0
+caprese salad,0.000000,1
+scotch egg,0.000000,0
+bibimbap,0.000000,1
+barbecued spareribs,0.000000,0
+onion butter,0.000000,0
+buffalo wing,0.000000,0
+chicken paprika,0.000000,0
+lobster butter,0.000000,0
+vol au vent,0.000000,0
+profiterole,0.000000,0
+clam dip,0.000000,0
+chicken quesadilla,0.000000,1
+huitre ,0.000000,0
+scallopine,0.000000,0
+prune cake,0.000000,0
+chicken marengo,0.000000,0
+rock cake,0.000000,0
+beef tartare,0.000000,1
+tuna burger,0.000000,0
+scotch woodcock,0.000000,0
+veal cordon bleu,0.000000,0
+eccles cake,0.000000,0
+pulled pork sandwich,0.000000,1
+shrimp butter,0.000000,0
+croque madame,0.000000,1
+beef bourguignonne,0.000000,0
+maryland chicken,0.000000,0
+victoria sandwich,0.000000,0
+takoyaki,0.000000,1
+shirred egg,0.000000,0
+coquilles saint jacques,0.000000,0
+carbonnade flamande,0.000000,0
+friedcake,0.000000,0
+blood clam,0.000000,0
+sea newburg,-1.000000,0
+rugulah,-1.000000,0
+pimento butter,-1.000000,0
+lobster roll sandwich,-1.000000,1
+french fritter,-1.000000,0
+escalope de veau orloff,-1.000000,0
+chicken provencale,-1.000000,0
+barbecued wing,-1.000000,0
+bacon lettuce tomato sandwich,-1.000000,0
