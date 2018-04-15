@@ -1,19 +1,19 @@
 ice cream,1
 pizza,1
 pot roast,0
-crab ,0
+crab food,0
 hash browns,0
 bread pudding,0
 beef stew,0
 oyster,1
 sausage and kraut,0
 reuben,0
-lobster ,0
+lobster food,0
 chili,0
 hamburger,1
 fruit tart,0
 porridge,0
-clam ,0
+clam food,0
 custard,0
 sushi,1
 pate,0
@@ -22,7 +22,7 @@ casserole,0
 pancake,1
 gingerbread,0
 mussel,1
-crayfish ,0
+crayfish food,0
 taco,1
 hot dog,1
 poi,0
@@ -33,7 +33,7 @@ cheesecake,1
 lasagna,1
 tenderloin,0
 scallop,1
-ambrosia ,0
+ambrosia food,0
 scrambled eggs,0
 omelette,1
 chocolate cake,1
@@ -42,7 +42,7 @@ sauerkraut,0
 risotto,1
 pho,1
 couscous,0
-cockle ,0
+cockle food,0
 souffle,0
 gyro,0
 applesauce,0
@@ -55,7 +55,7 @@ burrito,0
 cupcake,1
 boiled egg,0
 macaroni and cheese,1
-limpet ,0
+limpet food,0
 flan,0
 french toast,1
 bacon and eggs,0
@@ -65,7 +65,7 @@ penne,0
 tamale,0
 fritter,0
 nacho,1
-meat loaf ,0
+meat loaf food,0
 fondue,0
 compote,0
 pavlova,0
@@ -169,7 +169,7 @@ kedgeree,0
 coconut cake,0
 beef stroganoff,0
 baked alaska,0
-baby back ribs,0
+baby back rib,0
 spring roll,1
 osso buco,0
 sukiyaki,0
