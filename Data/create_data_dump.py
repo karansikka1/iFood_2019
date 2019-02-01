@@ -31,8 +31,8 @@ if __name__ == "__main__":
             print 'skipping %s' %(class_name)
             continue
         #if os.path.isdir('./sample_images_old/' + class_name):
-        #    if len(os.listdir('./sample_images_old/' + class_name)) > 0:
-        #        continue
+        ##    if len(os.listdir('./sample_images_old/' + class_name)) > 0:
+        ##        continue
         if not os.path.isdir(dest + class_name):
             os.mkdir(dest + class_name)
         print 'Running for class %s' %(class_name)
