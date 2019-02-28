@@ -1,0 +1,258 @@
+ice cream,1
+pizza,1
+pot roast,0
+crab food,0
+hash browns,0
+bread pudding,0
+beef stew,0
+oyster,1
+sausage and kraut,0
+reuben,0
+lobster food,0
+chili,0
+hamburger,1
+fruit tart,0
+porridge,0
+clam food,0
+custard,0
+sushi,1
+pate,0
+jerky,0
+casserole,0
+pancake,1
+gingerbread,0
+mussel,1
+crayfish food,0
+taco,1
+hot dog,1
+poi,0
+donut,1
+french fries,1
+apple pie,1
+cheesecake,1
+lasagna,1
+tenderloin,0
+scallop,1
+ambrosia food,0
+scrambled eggs,0
+omelette,1
+chocolate cake,1
+waffle,1
+sauerkraut,0
+risotto,1
+pho,1
+couscous,0
+cockle food,0
+souffle,0
+gyro,0
+applesauce,0
+brisket,0
+foie gras,1
+dumpling,1
+ravioli,1
+hummus,1
+burrito,0
+cupcake,1
+boiled egg,0
+macaroni and cheese,1
+limpet food,0
+flan,0
+french toast,1
+bacon and eggs,0
+guacamole,1
+fish and chips,1
+penne,0
+tamale,0
+fritter,0
+nacho,1
+meat loaf food,0
+fondue,0
+compote,0
+pavlova,0
+fruitcake,0
+pound cake,0
+paella,1
+vermicelli,0
+haggis,0
+meatball,0
+sponge cake,0
+fried rice,1
+bread pudding,1
+pork chop,1
+sashimi,1
+prime rib,1
+ramen,1
+ham and eggs,0
+strudel,0
+pilaf,0
+filet mignon,1
+caesar salad,1
+gnocchi,1
+falafel,1
+ham sandwich,0
+torte,0
+savarin,0
+frittata,0
+tempura,0
+onion rings,1
+clam chowder,1
+scampi,0
+frozen yogurt,1
+terrine,0
+garlic bread,1
+enchilada,0
+linguine,0
+baklava,1
+schnitzel,0
+coffee cake,0
+chocolate mousse,1
+fettuccine,0
+jambalaya,0
+fried egg,0
+confit,0
+bruschetta,1
+carrot cake,1
+edamame,1
+strawberry shortcake,1
+tiramisu,1
+chop suey,0
+poached egg,0
+succotash,0
+crumpet,0
+ceviche,1
+wonton,0
+tortellini,0
+adobo,0
+tapenade,0
+orzo,0
+cannoli,1
+miso soup,1
+blancmange,0
+chicken curry,1
+chow mein,0
+syllabub,0
+eggs benedict,1
+grilled salmon,1
+creme brulee,1
+panna cotta,1
+greek salad,1
+tetrazzini,0
+escargot,1
+rigatoni,0
+ziti,0
+pad thai,1
+streusel,0
+cannelloni,0
+moussaka,0
+egg roll,0
+grilled cheese sandwich,1
+tagliatelle,0
+club sandwich,1
+roulade,0
+biryani,0
+peking duck,1
+stuffed cabbage,0
+scrapple,0
+chicken wing,1
+coq au vin,0
+welsh rarebit,0
+croquette,0
+french onion soup,1
+stuffed peppers,0
+samosa,1
+sloppy joe,0
+kabob,0
+manicotti,0
+potpie,0
+pumpkin spice cake,0
+kedgeree,0
+coconut cake,0
+beef stroganoff,0
+baked alaska,0
+baby back rib,0
+spring roll,1
+osso buco,0
+sukiyaki,0
+huevos rancheros,1
+crab cake,1
+beet salad,1
+lobster bisque,1
+galantine,0
+steak tartare,0
+knish,0
+lutefisk,0
+spaghetti bolognese,1
+cruller,0
+sauerbraten,0
+beef wellington,0
+farfalle,0
+bubble and squeak,0
+marble cake,0
+salisbury steak,0
+churro,1
+chicken kiev,0
+red velvet cake,1
+poutine,1
+sausage roll,0
+tostada,0
+fried calamari,1
+pepper steak,0
+cottage pie,0
+beignet,1
+hot and sour soup,1
+tuna tartare,1
+shrimp and grits,1
+deviled egg,1
+spaghetti carbonara,1
+gyoza,1
+seaweed salad,1
+macaron,1
+beef carpaccio,1
+caprese salad,1
+bibimbap,1
+chicken quesadilla,1
+beef tartare,1
+pulled pork sandwich,1
+croque madame,1
+takoyaki,1
+lobster roll sandwich,1
+matzo ball,0
+peach melba,0
+crumb cake,0
+chicken cordon bleu,0
+boston cream pie,0
+steak au poivre,0
+dolmas,0
+rissole,0
+chiffon cake,0
+lobster thermidor,0
+applesauce cake,0
+toad in the hole,0
+tamale pie,0
+fish stick,0
+entrecote,0
+moo goo gai pan,0
+mostaccioli,0
+apple turnover,0
+pirogi,0
+stuffed tomato,0
+upside down cake,0
+scotch egg,0
+barbecued spareribs,0
+buffalo wing,0
+vol au vent,0
+profiterole,0
+huitre ,0
+chicken marengo,0
+rock cake,0
+veal cordon bleu,0
+eccles cake,0
+beef bourguignonne,0
+victoria sandwich,0
+shirred egg,0
+coquilles saint jacques,0
+carbonnade flamande,0
+rugulah,0
+chicken provencale,0
+barbecued wing,0
+bacon lettuce tomato sandwich,0
