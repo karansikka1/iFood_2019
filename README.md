@@ -40,7 +40,6 @@ The training data consists of 28,399 images from 251 classes. The test data is c
 ## Data Download and Format
 Data can be downloaded from the links below or from [Kaggle](FIXME).
 
-Data can be downloaded from the links below or from [Kaggle](FIXME)
 [Annotations](https://food-x.s3.amazonaws.com/annot.tar) (FIXME MB)
 * Running `md5sum annot.tar` on the tar file should produce FIXME
 * The tar contains 4 files
