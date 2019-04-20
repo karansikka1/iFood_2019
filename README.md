@@ -1,7 +1,7 @@
-![](https://raw.githubusercontent.com/parneetk/ifood2019-dummy-pk/master/assets/banner.png)
+![](https://raw.githubusercontent.com/karansikka1/iFood_2019/master/assets/banner.png)
 
 # iFood 2019 Challenge @ [FGVC6](https://sites.google.com/view/fgvc6/home), [CVPR 2019](http://cvpr2019.thecvf.com/)
-What did you eat today? Can you develop a computational model smart enough to identify what you are eating? Automatic food identification can assist towards food intake monitoring to maintain a healthy diet. Food classification is a challenging problem due to the large number of food categories, high visual similarity between different food categories, as well as the lack of datasets that are large enough for training deep models. In this competition, we extend our last year's dataset to 251 fine-grained (prepared) food categories with 120,216 training images collected from the web. We provide human verified labels for both the validation set of 12,170 images and the test set of 28,399 images. The goal is to build a model to predict the fine-grained food-category label given an image.
+What did you eat today? Can you develop a computational model smart enough to identify what you are eating? Automatic food identification can assist towards food intake monitoring to maintain a healthy diet. Food classification is a challenging problem due to the large number of food categories, high visual similarity between different food categories, as well as the lack of datasets that are large enough for training deep models. In this competition, we extend our last year's dataset to 251 fine-grained (prepared) food categories with 118,475 training images collected from the web. We provide human verified labels for both the validation set of 11,994 images and the test set of 28,377 images. The goal is to build a model to predict the fine-grained food-category label given an image.
 
 The main challenges are:
 
@@ -38,7 +38,10 @@ The validation data consists of 12,170 images from 251 classes. The test data is
 The training data consists of 28,399 images from 251 classes. The test data is collected from web images and the labels are human verified. It does not contain noisy labels.
 
 ## Data Download and Format
-[Annotations](FIXME) (FIXME MB)
+Data can be downloaded from the links below or from [Kaggle](FIXME).
+
+Data can be downloaded from the links below or from [Kaggle](FIXME)
+[Annotations](https://food-x.s3.amazonaws.com/annot.tar) (FIXME MB)
 * Running `md5sum annot.tar` on the tar file should produce FIXME
 * The tar contains 4 files
      * class_list.txt: Contains the names of 251 class labels. This can be used to map class_ids with class names.
@@ -47,12 +50,12 @@ The training data consists of 28,399 images from 251 classes. The test data is c
      * test_info.csv: csv only provides the list of test images.
  * We provide separate tars for train, val and test images as mentioned below.
 
-[Train Images](FIXME) (FIXME)
+[Train Images](https://food-x.s3.amazonaws.com/train.tar) (FIXME)
 * Running `md5sum train.tar` on the tar file should produce FIXME
 * Contains training images.
 * For label information see annotation file train_info.csv. 
 
-[Validation Images](FIXME) (FIXME)
+[Validation Images](https://food-x.s3.amazonaws.com/val.tar) (FIXME)
 * Running `md5sum val.tar` on the tar file should produce FIXME
 * Contains validation images.
 * For label information see annotation file val_info.csv. 
@@ -112,4 +115,4 @@ Serge Belongie, Cornell University and Cornell Tech </br>
 
 \*work done while Parneet was an intern at SRI International
 
-For any further inquiries please contact us at FIXME
+For any further inquiries please contact us at ifoodcvpr19@gmail.com
