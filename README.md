@@ -60,7 +60,7 @@ Data can be downloaded from the links below or from [Kaggle](FIXME)
 * Contains validation images.
 * For label information see annotation file val_info.csv. 
 
-[Test Images](https://food-x.s3.amazonaws.com/test.tar) (467 MB)
+[Test Images](https://food-x.s3.amazonaws.com/test.tar) (FIXME MB)
 * Running `md5sum train.tar` on the tar file should produce `d7b89119c434b4b01868b7307cc22a94`
 * Contains testing images.
 * The label will be evaluation on the evaluation server.
