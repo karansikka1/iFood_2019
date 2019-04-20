@@ -1,1 +1,0 @@
-# Foodx-challenge
