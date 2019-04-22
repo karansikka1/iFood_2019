@@ -25,7 +25,7 @@ Winners Announced|June 2019|
 The challenge is hosted on [Kaggle](https://www.kaggle.com/c/ifood-2019-fgvc6/overview)
 
 ## Data
-There is a total of 251 food categories in the dataset. A complete list of classes is available [here](https://raw.githubusercontent.com/karansikka1/iFood_2019/master/assets/).
+There is a total of 251 food categories in the dataset. A complete list of classes is available [here](https://raw.githubusercontent.com/karansikka1/iFood_2019/master/assets/class_list.txt).
 
 
 ### Training Data
@@ -38,7 +38,7 @@ The validation data consists of 12,170 images from 251 classes. The test data is
 The training data consists of 28,399 images from 251 classes. The test data is collected from web images and the labels are human verified. It does not contain noisy labels.
 
 ## Data Download and Format
-Data can be downloaded from the links below or from [Kaggle](https://github.com/karansikka1/iFood_2019/class_list.txt).
+Data can be downloaded from the links below or from [Kaggle](https://www.kaggle.com/c/ifood-2019-fgvc6/overview).
 
 [Annotations](https://food-x.s3.amazonaws.com/annot.tar) (3.0 MB)
 * Running `md5sum annot.tar` on the tar file should produce 0c632c543ceed0e70f0eb2db58eda3ab
