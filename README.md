@@ -17,15 +17,15 @@ This competition is part of the fine-grained visual-categorization workshop ([FG
 ## Dates
 |||
 |------|---------------|
-Data Released|FIXME|
+Data Released|April 22, 2019|
 Submission Deadline|June 3, 2019|
 Winners Announced|June 2019|
 
 ## Evaluation Server
-The challenge is hosted on [Kaggle](FIXME)
+The challenge is hosted on [Kaggle](https://www.kaggle.com/c/ifood-2019-fgvc6/overview)
 
 ## Data
-There is a total of 251 food categories in the dataset. A complete list of classes is available [here](FIXME).
+There is a total of 251 food categories in the dataset. A complete list of classes is available [here](https://raw.githubusercontent.com/karansikka1/iFood_2019/master/assets/).
 
 
 ### Training Data
@@ -38,10 +38,10 @@ The validation data consists of 12,170 images from 251 classes. The test data is
 The training data consists of 28,399 images from 251 classes. The test data is collected from web images and the labels are human verified. It does not contain noisy labels.
 
 ## Data Download and Format
-Data can be downloaded from the links below or from [Kaggle](FIXME).
+Data can be downloaded from the links below or from [Kaggle](https://github.com/karansikka1/iFood_2019/class_list.txt).
 
-[Annotations](https://food-x.s3.amazonaws.com/annot.tar) (FIXME MB)
-* Running `md5sum annot.tar` on the tar file should produce FIXME
+[Annotations](https://food-x.s3.amazonaws.com/annot.tar) (3.0 MB)
+* Running `md5sum annot.tar` on the tar file should produce 0c632c543ceed0e70f0eb2db58eda3ab
 * The tar contains 4 files
      * class_list.txt: Contains the names of 251 class labels. This can be used to map class_ids with class names.
      * train_info.csv: Each line of this csv containing the "image_name,label" pair for training data. For example, "train_00000.jpg,94" refers to image train_00000.jpg having class_id 94. The class_id can be mapped to class name using class_list.txt.      
@@ -49,18 +49,18 @@ Data can be downloaded from the links below or from [Kaggle](FIXME).
      * test_info.csv: csv only provides the list of test images.
  * We provide separate tars for train, val and test images as mentioned below.
 
-[Train Images](https://food-x.s3.amazonaws.com/train.tar) (FIXME)
-* Running `md5sum train.tar` on the tar file should produce FIXME
+[Train Images](https://food-x.s3.amazonaws.com/train.tar) (2.3 GB)
+* Running `md5sum train.tar` on the tar file should produce 8e56440e365ee852dcb0953a9307e27f
 * Contains training images.
 * For label information see annotation file train_info.csv. 
 
-[Validation Images](https://food-x.s3.amazonaws.com/val.tar) (FIXME)
-* Running `md5sum val.tar` on the tar file should produce FIXME
+[Validation Images](https://food-x.s3.amazonaws.com/val.tar) (231 MB)
+* Running `md5sum val.tar` on the tar file should produce fa9a4c1eb929835a0fe68734f4868d3b
 * Contains validation images.
 * For label information see annotation file val_info.csv. 
 
-[Test Images](https://food-x.s3.amazonaws.com/test.tar) (FIXME MB)
-* Running `md5sum train.tar` on the tar file should produce FIXME
+[Test Images](https://food-x.s3.amazonaws.com/test.tar) (548 MB)
+* Running `md5sum train.tar` on the tar file should produce 32479146dd081d38895e46bb93fed58f
 * Contains testing images.
 * The label will be evaluation on the evaluation server.
 
