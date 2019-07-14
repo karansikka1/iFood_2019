@@ -105,6 +105,18 @@ By downloading this dataset you agree to the following terms:
 ## Acknowledgement
 We would like to thank [CVDF Foundation](http://www.cvdfoundation.org/) and Tsung-Yi Lin for helping us with hosting the data.
 
+## Citing
+Please cite the following paper if you are using this dataset for you research.
+
+```
+@article{kaur2019foodx,
+  title={FoodX-251: A Dataset for Fine-grained Food Classification},
+  author={Kaur, Parneet and and Sikka, Karan and Wang, Weijun and Belongie, serge and Divakaran, Ajay},
+  journal={arXiv preprint},
+  year={2019}
+}
+```
+
 ## Organizers
 Karan Sikka, SRI International </br>
 Parneet Kaur\*, Johnson \& Johnson </br>
