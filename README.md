@@ -119,7 +119,7 @@ Please cite the following paper if you are using this dataset for you research.
 
 ## Organizers
 Karan Sikka, SRI International </br>
-Parneet Kaur\*, Johnson \& Johnson </br>
+Parneet Kaur\* </br>
 Weijun Wang, Google </br>
 Ajay Divakaran, SRI International </br>
 Serge Belongie, Cornell University and Cornell Tech </br>
