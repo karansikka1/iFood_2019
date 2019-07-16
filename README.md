@@ -112,7 +112,7 @@ Please cite the following paper if you are using this dataset for you research.
 @article{kaur2019foodx,
   title={FoodX-251: A Dataset for Fine-grained Food Classification},
   author={Kaur, Parneet and and Sikka, Karan and Wang, Weijun and Belongie, serge and Divakaran, Ajay},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:1907.06167},
   year={2019}
 }
 ```
